@@ -1,0 +1,1 @@
+Apartment Management System: Software application which helps for the owner of the apartment to create, read, update and delete the data as well as the tenant to access the necessary details.Tech: Apache NetBeans(frontend) using java, MySql(backend) using SQL.
